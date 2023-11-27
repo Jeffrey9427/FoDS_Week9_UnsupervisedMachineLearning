@@ -1,4 +1,4 @@
-# **Unsupervised Machine Learning**
+<h1 align="center">**Unsupervised Machine Learning**</h1>
 
 Group Members:
 
